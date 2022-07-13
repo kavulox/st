@@ -1,2 +1,5 @@
 * Xresources 
 Anysize
+Scrollback
+Bold
+Clipboard
